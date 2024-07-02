@@ -1,0 +1,18 @@
+						**Steps to run EasyTableService  Project**
+
+Step1:
+	install Xampp server
+
+Step2:
+       Create database   with name  "foodresturant"
+
+Steps3:
+	Import Sql File
+
+Step4:
+	place this project here 
+		C:\xampp\htdocs
+
+Step5:
+	Paste this link to chrome browser
+	http://localhost/foodOrderingWebApp
